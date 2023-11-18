@@ -9,3 +9,4 @@ text = 'Equis de'
 
 print(text[::-1])
 print(text[2:5])
+print(text[:-1])
