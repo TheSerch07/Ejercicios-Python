@@ -1,8 +1,12 @@
+import random
+
 options = ('piedra', 'papel', 'tijera')
 
 user_option = input("Piedra, papel o tijera?:").lower()
+computer_option = random.choice(options)
 
 print(user_option)
+print(computer_option)
 # if (number % 2 == 0):
 #     print("Me diste un número par!")
 # else:
