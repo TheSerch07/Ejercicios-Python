@@ -11,6 +11,5 @@ if not user_option in options:
 if user_option == computer_option:
     print('Ha sido un empate!')
 
-
 print(user_option)
 print(computer_option)
