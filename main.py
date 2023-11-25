@@ -8,6 +8,7 @@ computer_option = random.choice(options)
 if not user_option in options:
     print('Tu opción no es valida')
 
+if 
 
 print(user_option)
 print(computer_option)
